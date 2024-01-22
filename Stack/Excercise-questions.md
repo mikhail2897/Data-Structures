@@ -4,9 +4,9 @@
     reverse_string("We will conquere COVID-19") should return "91-DIVOC ereuqnoc lliw eW"
     ```
 
-[Solution](https://github.com/mikhail2897/Data-Structures/blob/main/Stack/Stack-Excercise1.py)
+[Solution](https://github.com/mikhail2897/Data-Structures/blob/main/Stack/StackExcercise1.py)
 
-2. Write a function in python that checks if paranthesis in the string are balanced or not. Possible parantheses are "{}',"()" or "[]". Use [Stack class](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/5_Stack/5_stack.ipynb) from the tutorial.
+2. Write a function in python that checks if paranthesis in the string are balanced or not. Possible parantheses are "{}',"()" or "[]". Use [Stack class](https://github.com/mikhail2897/Data-Structures/blob/main/Stack/Stack_intro.ipynb).
     ```
     is_balanced("({a+b})")     --> True
     is_balanced("))((a+b}{")   --> False
@@ -15,4 +15,4 @@
     is_balanced("[a+b]*(x+2y)*{gg+kk}") --> True
     ```
 
-[Solution](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/5_Stack/Exercise/balance_paran.py)
+[Solution](https://github.com/mikhail2897/Data-Structures/blob/main/Stack/StackExcercise2.py)
