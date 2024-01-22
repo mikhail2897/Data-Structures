@@ -16,3 +16,6 @@
     ```
 
 [Solution](https://github.com/mikhail2897/Data-Structures/blob/main/Stack/StackExcercise2.py)
+
+
+## Reference :- https://www.youtube.com/watch?v=zwb3GmNAtFk&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=7
