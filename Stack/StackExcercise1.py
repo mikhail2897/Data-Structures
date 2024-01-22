@@ -34,6 +34,8 @@ def reverse_string(str1):
         rev_str += s.pop()
     return rev_str
 
+
+
 if __name__ == '__main__':
     print(reverse_string("mnbvcxz lkjhgfdsa poiuytrewq"))
     print(reverse_string("9876543210"))

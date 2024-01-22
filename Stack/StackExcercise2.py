@@ -1,5 +1,4 @@
 from StackExcercise1 import Stack
-
 def is_match(char_1, char_2):
     match_dict = {
         ')' : '(',
